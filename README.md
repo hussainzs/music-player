@@ -14,3 +14,4 @@ This is a music player project built with HTML, CSS, and vanilla JavaScript. It 
 
 1. Clone this repository
 2. To use the app, simply open the `index.html` file in your web browser.
+3. You can go to https://hussainzs.github.io/music-player/ to use the app.
