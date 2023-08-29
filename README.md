@@ -1,6 +1,6 @@
 # Music Player App
 
-This is a music player project built with HTML, CSS, and vanilla JavaScript. It allows users to browse and play a pre-installed collection of songs by interacting with the GUI. The app features a responsive design and a minimalist interface. 
+This is a music player project built with HTML, CSS, and JavaScript. It allows users to browse and play a pre-installed collection of songs by interacting with the GUI. The app features a responsive design and a minimalist interface. 
 
 ## Features
 
